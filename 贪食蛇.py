@@ -1,3 +1,4 @@
+#这是贪吃蛇的小游戏
 import random
 import pygame
 import sys
